@@ -21,7 +21,6 @@ from keras.optimizers import SGD
 
 from Util.utilities import frames_maker, xy_array_maker
 
-
 ############################################################################
 
 frames_maker(datasetpath = 'D:\\SL-Recognition\\Dataset-03-Youtube\\dataset\\train'     , padding = False, max_frames = 40)
@@ -32,6 +31,7 @@ path_output_1 = 'D:\\SL-Recognition\\Dataset-03-Youtube\\dataset\\train_frames'
 path_output_2 = 'D:\\SL-Recognition\\Dataset-03-Youtube\\dataset\\validation_frames'
 
 ############################################################################
+
 samples_class = 10
 samples       = samples_class*len(os.listdir(path_output_1)) # Total Sum of Video Samples per Class
 frames        = 40
