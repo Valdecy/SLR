@@ -3,11 +3,11 @@
 # Created by: Prof. Valdecy Pereira, D.Sc.
 # UFF - Universidade Federal Fluminense (Brazil)
 # email:  valdecy.pereira@gmail.com
-# Course: 2D Convolutional Neural Networks
-# Lesson: VGG16
+# Course: Convolutional Neural Networks
+# Lesson: 2D
 
 # Citation: 
-# PEREIRA, V. (2018). Project: 2D CNN, File: Python-DM-CNN-VGG16.py, GitHub repository:<https://github.com/Valdecy/2D-CNN-VGG16>
+# PEREIRA, V. (2018). Project: SLR, File: Model-01-2D CNN-VGG16.py, GitHub repository:<https://github.com/Valdecy/SLR>
 
 ############################################################################
 
